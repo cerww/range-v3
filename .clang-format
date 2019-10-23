@@ -14,10 +14,10 @@
   AlwaysBreakTemplateDeclarations: true,
   BinPackArguments: false,
   BinPackParameters: true,
-  BraceWrapping: {
-    AfterCaseLabel: true,
-    AfterClass: true,
-    AfterControlStatement: true,
+  BraceWrapping: {    
+	AfterCaseLabel: true,
+	AfterClass: true,
+	AfterControlStatement: true,
     AfterEnum: true,
     AfterFunction: true,
     AfterNamespace: true,
